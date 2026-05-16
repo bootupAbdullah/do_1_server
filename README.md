@@ -1,3 +1,6 @@
+[![Live](https://img.shields.io/badge/live-entrvm.xyz-brightgreen)](https://entrvm.xyz)
+
+
 # do_1_server
 
 A lightweight HTTP server written in Go, deployed on a DigitalOcean Ubuntu VM and served publicly at [https://entrvm.xyz](https://entrvm.xyz).
