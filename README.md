@@ -1,5 +1,6 @@
 [![Live](https://img.shields.io/badge/live-entrvm.xyz-brightgreen)](https://entrvm.xyz)
-
+[![Go](https://img.shields.io/badge/go-1.26.3-blue)](https://golang.org)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 # do_1_server
 
